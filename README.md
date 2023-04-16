@@ -45,9 +45,9 @@
     * Submit feedback
  ![emp-reviews](https://user-images.githubusercontent.com/87888969/232309585-39e7cdfc-4a86-4d5c-8d87-8eeb60faccb3.png)
   * Login
-  ![test5](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/login.png)
+  ![login](https://user-images.githubusercontent.com/87888969/232309935-5dc0887b-2755-46c0-8e8f-15b0ba973edc.png)
   * Register
-  ![test6](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/register.png)
+  ![signup](https://user-images.githubusercontent.com/87888969/232309947-2ba12e19-2a87-4a16-984a-6349a359f161.png)
   
   ## Directory Structure
   * ```/assets/css``` - all css code
