@@ -2,8 +2,8 @@
 const mongoose = require('mongoose');
 
 // connect from mongodb
- mongoose.connect('mongodb://127.0.0.1:27017/Review-System');
-//mongoose.connect('mongodb+srv://ashishpal:123abc@ers.vd4pr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority');
+// mongoose.connect('mongodb://127.0.0.1:27017/Review-System');
+   mongoose.connect('mongodb+srv://wankhadeabhi3:abhi123456@cluster0.jhzupam.mongodb.net/review-system?retryWrites=true&w=majority');
 
 // aquire connection if it is succesful
 const db = mongoose.connection;
