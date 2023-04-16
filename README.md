@@ -33,9 +33,9 @@
   ## Features
   * Admin View
   Add/ remove/ update/ view employees
-  ![Test Image 4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/view-all-emp.png)
+  ![Test Image 4](![emp-list](https://user-images.githubusercontent.com/87888969/232309284-4edf081c-fa41-48b0-b25b-7e1ae77cfbe5.png))
   Add/update/view performance reviews
-  ![Test Image 4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/admin-task.png)
+  ![Test Image 4](![emp-reviews](https://user-images.githubusercontent.com/87888969/232309387-68b1c103-1b28-4fba-b31b-35892335966c.png))
   Assign employees to participate in another employee's performance review
   ![Test](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/assign-work.png)
   Admin can add new employee also by registring
