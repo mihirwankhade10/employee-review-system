@@ -1,6 +1,6 @@
 # Employee-Review-System
 ## Description 
-  A greate project which is use to submit review against each other for employees. And there is an admin
+  A project which is use to submit review against each other for employees. And there is an admin
   who can see all employees, he can delete any of employee and he can create any employee. An admin can 
   create any employee to admin
   
@@ -26,7 +26,7 @@
   Entering login admin point (important)
   using this email and pass login into project please
   ``` 
-  email : pradeep@gmail.com
+  email : abhiwankhaded67@gmail.com
   password : 123
   ```
   
