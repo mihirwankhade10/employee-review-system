@@ -7,7 +7,10 @@
 ## Tech stack used
   MongoDB is used for database, nodejs express as a server and ejs for views templates, javascript for coding
   and html, css for designing.
-  
+ 
+## Deployment Link
+   https://cyan-galoshes.cyclic.app/users/login
+   
 # How to setup the project on local system
   1. Clone this project
   2. Start by installing npm if you don't have it already.
