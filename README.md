@@ -33,11 +33,14 @@
   ## Features
   * Admin View
   Add/ remove/ update/ view employees
+ ![emp-list](https://user-images.githubusercontent.com/87888969/232309538-aad78dbd-b59a-4a16-85e2-7dac764311ec.png)
 
   Add/update/view performance reviews
- 
+ ![admin-page](https://user-images.githubusercontent.com/87888969/232309550-2a2c2a7e-9bce-44cf-8b4f-84c0458652be.png)
+
   Assign employees to participate in another employee's performance review
- 
+ ![emp-reviews](https://user-images.githubusercontent.com/87888969/232309585-39e7cdfc-4a86-4d5c-8d87-8eeb60faccb3.png)
+
   Admin can add new employee also by registring
 
   * Employee View
