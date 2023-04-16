@@ -34,10 +34,7 @@
   * Admin View
   Add/ remove/ update/ view employees
  ![emp-list](https://user-images.githubusercontent.com/87888969/232309538-aad78dbd-b59a-4a16-85e2-7dac764311ec.png)
-
-  Add/update/view performance reviews
- ![admin-page](https://user-images.githubusercontent.com/87888969/232309550-2a2c2a7e-9bce-44cf-8b4f-84c0458652be.png)
-
+ 
   Assign employees to participate in another employee's performance review
 ![admin-page](https://user-images.githubusercontent.com/87888969/232309696-f6af8e7e-d5df-4fbb-b75f-273cb354281d.png)
 
