@@ -1,6 +1,6 @@
 # Employee-Review-System
 ## Description 
-  A greate project which is use to submit review against each other for employees. And there is an admin
+  A project which is use to submit review against each other for employees. And there is an admin
   who can see all employees, he can delete any of employee and he can create any employee. An admin can 
   create any employee to admin
   
@@ -26,28 +26,28 @@
   Entering login admin point (important)
   using this email and pass login into project please
   ``` 
-  email : pradeep@gmail.com
+  email : wankhadeabhi3@gmail.com
   password : 123
   ```
   
   ## Features
   * Admin View
   Add/ remove/ update/ view employees
-  ![Test Image 4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/view-all-emp.png)
-  Add/update/view performance reviews
-  ![Test Image 4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/admin-task.png)
+ ![emp-list](https://user-images.githubusercontent.com/87888969/232309538-aad78dbd-b59a-4a16-85e2-7dac764311ec.png)
+ 
   Assign employees to participate in another employee's performance review
-  ![Test](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/assign-work.png)
+![admin-page](https://user-images.githubusercontent.com/87888969/232309696-f6af8e7e-d5df-4fbb-b75f-273cb354281d.png)
+
   Admin can add new employee also by registring
-  ![test](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/register.png)
+
   * Employee View
     * List of performance review requiring feedback
     * Submit feedback
-  ![test4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/employe-task.png)
+ ![emp-reviews](https://user-images.githubusercontent.com/87888969/232309585-39e7cdfc-4a86-4d5c-8d87-8eeb60faccb3.png)
   * Login
-  ![test5](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/login.png)
+  ![login](https://user-images.githubusercontent.com/87888969/232309935-5dc0887b-2755-46c0-8e8f-15b0ba973edc.png)
   * Register
-  ![test6](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/register.png)
+  ![signup](https://user-images.githubusercontent.com/87888969/232309947-2ba12e19-2a87-4a16-984a-6349a359f161.png)
   
   ## Directory Structure
   * ```/assets/css``` - all css code
