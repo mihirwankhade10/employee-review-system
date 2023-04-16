@@ -39,14 +39,14 @@
  ![admin-page](https://user-images.githubusercontent.com/87888969/232309550-2a2c2a7e-9bce-44cf-8b4f-84c0458652be.png)
 
   Assign employees to participate in another employee's performance review
- ![emp-reviews](https://user-images.githubusercontent.com/87888969/232309585-39e7cdfc-4a86-4d5c-8d87-8eeb60faccb3.png)
+![admin-page](https://user-images.githubusercontent.com/87888969/232309696-f6af8e7e-d5df-4fbb-b75f-273cb354281d.png)
 
   Admin can add new employee also by registring
 
   * Employee View
     * List of performance review requiring feedback
     * Submit feedback
-  ![test4](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/employe-task.png)
+ ![emp-reviews](https://user-images.githubusercontent.com/87888969/232309585-39e7cdfc-4a86-4d5c-8d87-8eeb60faccb3.png)
   * Login
   ![test5](https://github.com/ashishpal07/Employee-Review-System/blob/main/assets/image/login.png)
   * Register
