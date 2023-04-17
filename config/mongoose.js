@@ -1,19 +1,12 @@
 
 const mongoose = require('mongoose');
-
-// connect from mongodb
-// mongoose.connect('mongodb://127.0.0.1:27017/Review-System');
-   mongoose.connect('mongodb+srv://wankhadeabhi3:abhi123456@cluster0.jhzupam.mongodb.net/review-system?retryWrites=true&w=majority');
+mongoose.Promise = global.Promise;
 
 // aquire connection if it is succesful
-const db = mongoose.connection;
-
-// error
-db.on('error', console.error.bind(console, 'error connecting to db'));
-
-// up and running then print the message
-db.once('open', function(){
-    console.log("successfully connected to database!");
-});
-
+const db = 'mongodb+srv://wankhadeabhi3:abhi123456@cluster0.jhzupam.mongodb.net/?retryWrites=true&w=majority';
+// connect from mongodb
+// mongoose.connect('mongodb://127.0.0.1:27017/Review-System');
+   mongoose.connect(db).then(() => {
+    console.log(`Connection is succesfull`);
+   }).catch((err) => console.log(`no Connection`));
 module.exports = db;
