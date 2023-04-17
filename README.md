@@ -9,7 +9,7 @@
   and html, css for designing.
  
 ## Deployment Link
-   https://cyan-galoshes.cyclic.app/users/login
+https://cyan-galoshes.cyclic.app/
    
 # How to setup the project on local system
   1. Clone this project
